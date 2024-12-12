@@ -14,7 +14,7 @@
 - 🌱 I’m currently learning fullstack development  
 - 💼 Freelancer Web Developer
 - 💞️ I’m looking to collaborate on Web Development projects to improve my expereiences. 
-- 📫 You can reach me at https://portoazqi-v10.vercel.app// or Azqiabdillah@gmail.com or https://linkedin.com/in/azqiadistya
+- 📫 You can reach me at https://portoazqi-v10.vercel.app// or azqiabdillah@gmail.com or https://linkedin.com/in/azqiadistya
 
 <!---
 AzqiaAdistya/AzqiaAdistya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
