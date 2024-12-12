@@ -1,4 +1,4 @@
-![Azqia Adistya's card name](https://cardivo.vercel.app/api?name=Azqia%20Adistya&description=Hi%2C%20I%27m%20Azqia%20Adistya%2C%20Currently%20studying%20Frontend%20Dev.%20Nice%20To%20Meet%20You%F0%9F%91%8B&fontColor=%23035785&image=https://avatars.githubusercontent.com/u/82463256?v=4&backgroundColor=%23ecf0f1&linkedin=azqiadistya&instagram=azqiadistya&github=azqiadistya&site=[https://AzqiaAdistya.vercell.app](https://portoazqi-v10.vercel.app/)&pattern=leaf&colorPattern=%23eaeaea)
+![Azqia Adistya's card name](https://cardivo.vercel.app/api?name=Azqia%20Adistya&description=Hi%2C%20I%27m%20Azqia%20Adistya%2C%20Currently%20studying%20Frontend%20Dev.%20Nice%20To%20Meet%20You%F0%9F%91%8B&fontColor=%23035785&image=https://avatars.githubusercontent.com/u/82463256?v=4&backgroundColor=%23ecf0f1&linkedin=azqiadistya&instagram=azqiadistya&github=azqiadistya&site=https://portoazqi-v10.vercel.app/&pattern=leaf&colorPattern=%23eaeaea)
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=azqiadistya&count_private=true&show_icons=true&theme=synthwave)
 
