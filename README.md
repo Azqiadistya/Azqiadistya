@@ -11,8 +11,8 @@
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=azqiadistya&count_private=true" />
 
 - 👋 Hi, I’m @Azqiadistya
-- 👀 I’m interested in Web Development, Cloud Computing, Machine Learning, Artificial Intelligence, and Data Science. 
-- 🌱 I’m currently learning Web Development and Cloud Computing on advanced level. 
+- 🌱 I’m currently learning fullstack development  
+- 💼 Freelancer Web Developer
 - 💞️ I’m looking to collaborate on Web Development projects to improve my expereiences. 
 - 📫 You can reach me at https://portoazqi-v10.vercel.app// or Azqiabdillah@gmail.com or https://linkedin.com/in/azqiadistya
 
